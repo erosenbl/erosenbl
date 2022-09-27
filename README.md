@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Elias Rosenblatt. I am currently a postdoc researcher at the University of Vermont studying SARS-CoV-2 in wildlife communities.
+- 👋 Hi, I’m Elias Rosenblatt. I am currently a postdoc researcher at the University of Vermont studying SARS-CoV-2 in wildlife communities, with a focus on white-tailed deer.
 
 - 💞️ I’m looking to collaborate on source code and package development for ecological network models that integrate community ecology and disease ecology for decision making analysis.
 
